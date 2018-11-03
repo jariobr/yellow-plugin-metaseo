@@ -25,7 +25,7 @@ The plugin add in theme header the meta tags:
 
 ### How to use Meta Seo 
 
-Add to config.ini file 
+Add to text.ini file 
 
 	Facebook: yourfacebooknickname
 	FacebookId: 2000000000000000
@@ -35,7 +35,7 @@ Add to config.ini file
 	Googleplus: 112393291638185546781
 	Googlepage: 112209419309743840429
 
-To use the plugin open file `system/config/config.ini` and change to your value. 
+To use the plugin open file `system/config/text.ini` and change to your value. 
 
 ## Developer
 
